@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p gmentropylogit Generalized maximum entropy estimation of discrete choice models Use gmentropylogit With STATA 18
