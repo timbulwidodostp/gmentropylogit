@@ -1,9 +1,9 @@
 # gmentropylogit
-Generalized maximum entropy estimation of discrete choice models Use With gmentropylogit STATA 18
+Generalized maximum entropy estimation of discrete choice models Use gmentropylogit tWith STATA 18
 
-Generalized maximum entropy discrete choice model Use With gmentropylogit STATA 18
+Generalized maximum entropy discrete choice model Use gmentropylogit tWith STATA 18
 
-Generalized Maximum Entropy (Logit), dF/dx Use With gmentropylogit STATA 18
+Generalized Maximum Entropy (Logit), dF/dx Use gmentropylogit tWith STATA 18
 
 Olah Data Semarang
 
