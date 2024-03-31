@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'gmentropylogit': Generalized maximum entropy estimation of discrete choice models Use gmentropylogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f gmentropylogit.ado
+f gmentropylogit.sthlp
