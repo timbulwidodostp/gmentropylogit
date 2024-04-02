@@ -5,6 +5,8 @@ Generalized maximum entropy discrete choice model Use gmentropylogit With STATA 
 
 Generalized Maximum Entropy (Logit), dF/dx Use gmentropylogit With STATA 18
 
+https://www.youtube.com/watch?v=EsDoCf1OKwE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
